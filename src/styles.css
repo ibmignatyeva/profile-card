@@ -7,6 +7,7 @@ body {
   align-content: center;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .container {
@@ -33,11 +34,10 @@ body {
 }
 
 .container .profile-number {
-  font-weight: 400;
+  font-weight: 700;
 }
 
-.general-info-number,
-.profile-name {
+.general-info-number {
   font-weight: 700;
 }
 
